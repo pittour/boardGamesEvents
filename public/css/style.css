@@ -1,0 +1,109 @@
+
+
+h1 {
+    margin-top : 20px;
+}
+
+.title {
+    text-align : center;
+    background-color : #77b5fe;
+    border-radius : 50% 50%;
+}
+
+.middle {
+    text-align : center;
+    display : flex;
+    flex-direction : column;
+    
+}
+
+.event {
+
+    margin : auto;
+    padding-top : 20px;
+    margin-bottom : 30px;
+     background-color : gold;
+}
+
+h2 {
+    border : 4px gold solid;
+    box-shadow: rgb(46, 41, 59) 2px 5px 7px 2px;
+    max-width : 40%;
+    margin: auto;
+    margin-bottom : 10px;
+}
+
+.flex-row {
+    font-size : 18px;
+    display : flex;
+    justify-content : space-around;
+}
+
+.box {
+    display : flex;
+}
+
+.player {
+    width : 50%;
+
+}
+
+.info {
+    width : 50%;
+}
+
+.sideBySide {
+    display : flex;
+    justify-content : space-around;
+}
+
+.block {
+    width : 400px;
+    height : 400px;
+    background-color : purple;
+    
+}
+
+.stuck {
+    position : sticky;
+    top : 20px;
+}
+
+.stuck p {
+    color : gold;
+}
+
+.btn {
+    margin-top : 20px;
+    position : sticky;
+    top : 20px;
+    background-color : #77b5fe;;
+}
+
+
+/*####################*CSS PROFIL BLADE (Cédric) #############*/
+
+
+h1{
+    text-align:center;
+    border : 4px gold solid;
+    box-shadow: rgb(46, 41, 59) 2px 5px 7px 2px;
+    max-width : 40%;
+    margin: auto;
+    margin-bottom : 10px;
+}
+
+
+.pseudo{
+    
+    border: 2px black solid;
+    box-shadow: rgb(46, 41, 59) 2px 5px 7px 2px;
+}
+
+.mail{
+    
+    border: 2px black solid;
+    box-shadow: rgb(46, 41, 59) 2px 5px 7px 2px;
+    
+}
+
